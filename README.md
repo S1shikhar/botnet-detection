@@ -1,4 +1,4 @@
-# 🕵️ Botnet Detection System
+# 🕵️ ML-Based Botnet Detection System
 
 A machine-learning-based botnet detection system for network flow data,
 built for the **CTU-13 dataset** from Stratosphere Labs.
