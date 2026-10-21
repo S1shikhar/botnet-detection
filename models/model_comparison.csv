@@ -1,0 +1,6 @@
+name,pr_auc,roc_auc
+Random Forest,1.0,1.0
+Gradient Boosting,1.0,1.0
+Decision Tree,1.0,1.0
+Logistic Regression,1.0,1.0
+Isolation Forest (unsupervised),0.3118949574809225,0.89383

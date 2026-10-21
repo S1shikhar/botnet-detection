@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# Model files (large binaries - optional to exclude)
+# models/*.pkl     # uncomment this if you don't want to upload model files
+
+# Large data files
+data/*.labeled
+data/*.binetflow
+data/*.pcap
+
+# Keep sample CSV
+!data/sample_ctu13.csv
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+models/_tmp_*.png
